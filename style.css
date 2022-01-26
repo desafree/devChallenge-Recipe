@@ -313,6 +313,20 @@ li:last-child{
 }
 
 
+.createdBy{
+    margin-top: 9.3rem;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #828282;
+
+}
+
+
 @media only screen and (max-width: 1000px) {
 
     .container{
